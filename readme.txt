@@ -11,4 +11,4 @@ npm install
 # serve with hot reload at localhost:3000 热重载
 grunt
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+基于node + express 4.0 的电影网站，功能偏向管理员功能
