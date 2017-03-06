@@ -1,0 +1,21 @@
+{
+  "name": "imove",
+  "authors": [
+    "Mr0mshao <mshao_love@126.com>"
+  ],
+  "description": "imovie",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
